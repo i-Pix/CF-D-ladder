@@ -1,6 +1,6 @@
 # Ladder Name: Codeforces Div. 2, D
 ## Difficulty Level: 5
-
+Start Date : 19 - JAN
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
 |<ul><li>- [ ] Done</li></ul>|1|[Flowers](http://codeforces.com/problemset/problem/474/D)|Codeforces|1|
